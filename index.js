@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { render } from 'react-dom'
-import Table from './components/Table'
+import HelloWorld from './components/HelloWorld'
 
 render(
-  <Table />,
+  <HelloWorld />,
   document.getElementById('root')
 )
